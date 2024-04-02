@@ -28,19 +28,9 @@ div {
   border-color:WhiteSmoke;
   height:15%;
 }
-embed {
-  width:80vw;
-  height:100vh;
+img {
+  width:80px;
 }
 body {
 background-color: WhiteSmoke;
-}
-ol {list-style-type: lower-alpha;
-padding: 5em;  
-}
-table {
-  padding:2em;
-}
-td {
-  padding:2em;
 }
