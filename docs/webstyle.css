@@ -1,0 +1,46 @@
+nav#menu {padding:2vw; }
+
+/* This means: style the <nav id="menu"> element. */
+
+.button { 
+  border:2px; 
+  border-style:solid;
+  border-color:WhiteSmoke; 
+  padding:2vw; 
+  background-color:SeaGreen; 
+  color:WhiteSmoke; 
+  width:10%; 
+  display:inline;
+  border-radius: 20px;
+ }
+/* This means: style ANY element that as an @class set to button, as in */
+/* <li class="button"> or <p class="button"> or <div class="button">. */
+section {
+  background-color:PaleGreen;
+  color:black;
+  font-family:arial, helvetica, sans-serif;
+  padding:5px;
+}
+div {
+  background-color:WhiteSmoke;
+  border:2px;
+  border-style:solid;
+  border-color:WhiteSmoke;
+  height:15%;
+}
+embed {
+  width:80vw;
+  height:100vh;
+}
+body {
+background-color: WhiteSmoke;
+}
+ol {list-style-type: lower-alpha;
+padding: 5em;  
+}
+table {
+  padding:2em;
+}
+td {
+  padding:2em;
+}
